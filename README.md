@@ -1,4 +1,4 @@
-# configuration-management-homework2
+# dependency-visualizer
 ## Вариант 5
 ### Задание 2
 
@@ -72,6 +72,6 @@
 ##### Пакет microsoft.extensions.dependencyinjection.9.0.0-rc.2.24473.5
 
 ![image](https://github.com/Rajabalimax/dependency-visualizer/blob/master/1.Con.png)
-![dependencies_graph](https://github.com/Rajabalimax/dependency-visualizer/blob/master/1.Con.png)
+![dependencies_graph](https://github.com/Rajabalimax/dependency-visualizer/blob/master/2.png)
 
 
