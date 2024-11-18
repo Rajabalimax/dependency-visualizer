@@ -1,5 +1,5 @@
 Ссылки на репозиторий
-- [GitHub Репозиторий](https://github.com/Rajabalimax/-Config)
+- [GitHub Репозиторий](https://github.com/Rajabalimax/dependency-visualizer)
 
 # dependency-visualizer
 ## Вариант 5
