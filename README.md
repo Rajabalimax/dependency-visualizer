@@ -1,5 +1,5 @@
 # configuration-management-homework2
-## Вариант 10
+## Вариант 5
 ### Задание 2
 
 
@@ -65,13 +65,13 @@
 
 ##### Пакет newtonsoft.json.13.0.3.nupkg
 
-![image](https://github.com/user-attachments/assets/0c696a86-7de4-4d87-9824-b261f86a65bd)
-![dependencies_graph](https://github.com/user-attachments/assets/92aa154a-2856-4677-94a5-94405d9104af)
+![image](https://github.com/Rajabalimax/dependency-visualizer/blob/master/1.Con.png)
+![dependencies_graph](https://github.com/Rajabalimax/dependency-visualizer/blob/master/dependencies_graph.png)
 
 
 ##### Пакет microsoft.extensions.dependencyinjection.9.0.0-rc.2.24473.5
 
-![image](https://github.com/user-attachments/assets/cfbd3b96-3809-4300-a9f7-e39caaf06794)
-![dependencies_graph](https://github.com/user-attachments/assets/de6c3051-e447-4135-aa10-75545cac1892)
+![image](https://github.com/Rajabalimax/dependency-visualizer/blob/master/1.Con.png)
+![dependencies_graph](https://github.com/Rajabalimax/dependency-visualizer/blob/master/1.Con.png)
 
 
