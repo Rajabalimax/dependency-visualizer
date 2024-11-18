@@ -1,0 +1,5 @@
+[visualizer]
+program_path = "C:/Users/Rajabali/OneDrive/Рабочий стол/MIREA/Конфиг/2/dependency-visualizer"
+package_name = "newtonsoft.json.13.0.3"
+output_image = "dependencies_graph"
+max_depth = 3

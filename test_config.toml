@@ -1,0 +1,6 @@
+
+        [visualizer]
+        package_name = "Newtonsoft.Json.13.0.3"
+        output_image = "output.png"
+        max_depth = 3
+        
