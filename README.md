@@ -1,3 +1,6 @@
+Ссылки на репозиторий
+- [GitHub Репозиторий](https://github.com/Rajabalimax/-Config)
+
 # dependency-visualizer
 ## Вариант 5
 ### Задание 2
